@@ -29,7 +29,8 @@ A simple chatbot made using JavaScript and OPENAI API.
       },
     });const chatbotResponse = response.data.choices[0].text;
 
-![Screenshot](Screenshot 2023-09-28 at 11.18.28 PM.png?raw=true "Optional Title")
+    ![ScreenShot](https://raw.github.com/{vipin10100001}/{Openai-javascript-chatbot}/{master}/{Screenshot 2023-09-28 at 11.18.28 PM.png})
+
 
 
 
