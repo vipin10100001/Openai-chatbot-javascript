@@ -11,8 +11,7 @@ A simple chatbot made using JavaScript and OPENAI API.
 
 
   const response = await axios.post(
-
-    "https://api.openai.com/v1/completions",
+   "https://api.openai.com/v1/completions",
     {
       prompt: message,
       model: "text-davinci-003",
@@ -27,7 +26,8 @@ A simple chatbot made using JavaScript and OPENAI API.
         "Content-Type": "application/json",
         Authorization: `Bearer ${apiKey}`,
       },
-    });const chatbotResponse = response.data.choices[0].text;
+    });
+    const chatbotResponse = response.data.choices[0].text;
 
     
 
