@@ -29,7 +29,7 @@ A simple chatbot made using JavaScript and OPENAI API.
       },
     });const chatbotResponse = response.data.choices[0].text;
 
-
+![SCREENSHOT:](Screenshot 2023-09-28 at 11.18.28 PM.png?raw=true "Optional Title")
 
 
 
