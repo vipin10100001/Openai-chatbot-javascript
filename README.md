@@ -10,8 +10,8 @@ A simple chatbot made using JavaScript and OPENAI API.
 // Use axios library to make a POST request to the OpenAI API
 
 
+  
   const response = await axios.post(
-
     "https://api.openai.com/v1/completions",
     {
       prompt: message,
@@ -27,7 +27,8 @@ A simple chatbot made using JavaScript and OPENAI API.
         "Content-Type": "application/json",
         Authorization: `Bearer ${apiKey}`,
       },
-    });const chatbotResponse = response.data.choices[0].text;
+    });
+    const chatbotResponse = response.data.choices[0].text;
 
 
 
