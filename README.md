@@ -29,8 +29,7 @@ A simple chatbot made using JavaScript and OPENAI API.
       },
     });const chatbotResponse = response.data.choices[0].text;
 
-    ![ScreenShot](https://raw.github.com/{vipin10100001}/{Openai-javascript-chatbot}/{master}/{Screenshot 2023-09-28 at 11.18.28 PM.png})
-
+    
 
 
 
@@ -38,4 +37,8 @@ A simple chatbot made using JavaScript and OPENAI API.
 ## Feedback
 
 If you have any feedback, please reach out to us at vipintestmail03@gmail.com
+
+
+## SCREENSHOT
+![ScreenShot](https://raw.github.com/{vipin10100001}/{Openai-javascript-chatbot}/{master}/{Screenshot 2023-09-28 at 11.18.28 PM.png})
 
