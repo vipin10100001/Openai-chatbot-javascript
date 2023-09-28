@@ -1,7 +1,7 @@
 const form = document.getElementById("chat-form");
 const input = document.getElementById("chat-input");
 const messages = document.getElementById("chat-messages");
-const apiKey = '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';
+const apiKey = 'ENTER_YOUR_API_KEY_HERE';
 
 const preText =
   "I am your personal informational guide for the upcoming and previous UEFA Champions League games. I can provide you with details such as schedules, teams, scores, and statistics. Please ask me any question related to the tournament and I will provide you with a concise answer. ";
