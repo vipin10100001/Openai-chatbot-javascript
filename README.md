@@ -31,9 +31,7 @@ A simple chatbot made using JavaScript and OPENAI API.
 
 
 
-## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1R1B7XIOopEGvbD_W7JXZMe5dBfyKCLb8/view?usp=sharing)
 
 
 ## Feedback
