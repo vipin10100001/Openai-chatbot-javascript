@@ -31,8 +31,6 @@ A simple chatbot made using JavaScript and OPENAI API.
 
 
 
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at vipintestmail03@gmail.com
